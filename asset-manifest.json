@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dancing-Robo/static/css/main.510ff824.css",
+    "main.js": "/Dancing-Robo/static/js/main.11045ec6.js",
+    "index.html": "/Dancing-Robo/index.html",
+    "main.510ff824.css.map": "/Dancing-Robo/static/css/main.510ff824.css.map",
+    "main.11045ec6.js.map": "/Dancing-Robo/static/js/main.11045ec6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.510ff824.css",
+    "static/js/main.11045ec6.js"
+  ]
+}
